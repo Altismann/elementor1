@@ -7,15 +7,33 @@
 	>
 <channel>
 	<title>
-	Kommentarer till dyoid webdev	</title>
+	Kommentarer till devsite	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>webdev</description>
-	<lastBuildDate>Thu, 16 Nov 2023 13:42:26 +0000</lastBuildDate>
+	<description>dyoid devsite</description>
+	<lastBuildDate>Thu, 30 Nov 2023 11:32:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
-</channel>
+	<item>
+		<title>
+		Kommentarer till Hello world! av A WordPress Commenter		</title>
+		<link>/hello-world/#comment-2</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Wed, 22 Nov 2023 16:34:58 +0000</pubDate>
+		<guid isPermaLink="false">http://vadmin/#comment-2</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot; rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
